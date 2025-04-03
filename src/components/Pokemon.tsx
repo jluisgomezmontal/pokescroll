@@ -1,13 +1,10 @@
 import {
   Avatar,
-  Box,
   Button,
   Card,
   CardActions,
-  CardContent,
   CardHeader,
   CardMedia,
-  Typography,
 } from "@mui/material";
 
 export const Pokemon = ({ pokeProp }) => {
